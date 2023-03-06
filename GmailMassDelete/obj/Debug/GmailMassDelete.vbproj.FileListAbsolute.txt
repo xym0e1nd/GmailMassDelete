@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\bin\Debug\GmailMassDelete.exe.config
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\bin\Debug\GmailMassDelete.exe
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\bin\Debug\GmailMassDelete.pdb
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\bin\Debug\GmailMassDelete.xml
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\obj\Debug\GmailMassDelete.vbproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\obj\Debug\GmailMassDelete.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\obj\Debug\GmailMassDelete.Resources.resources
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\obj\Debug\GmailMassDelete.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\obj\Debug\GmailMassDelete.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\obj\Debug\GmailMassDelete.exe
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\obj\Debug\GmailMassDelete.xml
+C:\Users\Administrator\source\repos\GmailMassDelete\GmailMassDelete\obj\Debug\GmailMassDelete.pdb
